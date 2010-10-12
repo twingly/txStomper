@@ -8,7 +8,7 @@ sys.path.append("../../")
 import logging.config
 from twisted.internet import reactor, protocol, defer
 
-from twistedstomp.protocol import StompProtocol
+from txstomper.protocol import StompProtocol
 
 
 

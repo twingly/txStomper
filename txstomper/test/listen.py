@@ -10,7 +10,7 @@ import logging.config
 import twisted.internet.error
 from twisted.internet import reactor, protocol, defer
 
-from twistedstomp.protocol import StompProtocol, StompConnectError
+from txstomper.protocol import StompProtocol, StompConnectError
 
 
 

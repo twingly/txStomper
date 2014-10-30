@@ -1,8 +1,8 @@
 txStomper is a STOMP client library for Twisted Python.
 
 Note
-===========
-This repository is _NOT_ maintained anymore
+====
+This repository is _NOT_ maintained as we do not use STOMP at Twingly anymore.
 
 Description
 ===========
